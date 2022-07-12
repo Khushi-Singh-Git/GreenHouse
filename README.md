@@ -18,3 +18,15 @@
 <kbd><img src="https://user-images.githubusercontent.com/107871742/178546620-953da747-8f96-40de-920d-7587a599cb73.png" width="800px" height="600px" /></kbd>
 </p>
 
+# :herb: Working
+* I am collecting Environmental Parameters like Temperature, Humidity , Ambient Light and Soil Moisture using appropriate Sensors in real time.
+
+* Based on Pre-Defined Values (as per crop research need) of these Parameters ,I am switching on/off devices like Cooling System, Dehumidifier , Water Pump etc.
+
+* Sensor Data is being uploaded to Cloud.
+
+* To Demonstrate these Capabilities , I controlled functioning of DC Pump , DC Motor, DC Fans and Light using suitable Relay Control.
+
+* I used Arduino Mega with WiFi Development Board, Arduino IDE, Temperature Sensor, Humidity Sensor, Light Sensor , Soil Moisture Sensor , LCD Display , ESP8266 WiFi Board and 4 channel DC Relays.
+
+<hr>
